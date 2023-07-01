@@ -1,5 +1,5 @@
 # Handswritten_digit_model
-The Project, Handwrittn digit rocognition is ML model build using neural network. The model recognize the human handwritten digits from different
+The Project, Handwritten digit recognition is ML model build using neural network. The model recognize the human handwritten digits from different
 sources like images, papers, etc, and classify them into 10 predefined classes (0-9).
 
 ## Dataset used
